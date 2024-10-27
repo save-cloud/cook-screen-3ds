@@ -1,0 +1,9 @@
+[
+  {
+    "directory": "/Users/yuuko/develop/3ds/cook-screen",
+    "command": "/opt/devkitpro/devkitARM/bin/arm-none-eabi-gcc  -isystem /opt/devkitpro/devkitARM/arm-none-eabi/include -isystem /opt/devkitpro/libctru/include -isystem /opt/devkitpro/portlibs/3ds/include -Wl,-q -std=gnu11 -o CMakeFiles/cook-screen.dir/http.c.obj -c /Users/yuuko/develop/3ds/cook-screen/c/http.c",
+    "file": "/Users/yuuko/develop/3ds/cook-screen/c/http.c",
+    "output": "CMakeFiles/cook-screen.dir/http.c.obj"
+  }
+]
+

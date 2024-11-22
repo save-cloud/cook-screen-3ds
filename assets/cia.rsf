@@ -8,7 +8,7 @@ RomFs:
   RootPath                : ./romfs
 
 TitleInfo:
-  Category                : Application
+  Category                : Application #Application / SystemApplication / Applet / Firmware / Base / DlpChild / Demo / Contents / SystemContents / SharedContents / AddOnContents / Patch / AutoUpdateContents
   UniqueId                : 0xf8667
 
 Option:
